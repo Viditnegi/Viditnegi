@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative AI**.
 
-- 💬 Ask me about **Deep learning and GenAI**
+- 💬 Ask me about **Deep learning and GenAI.**
 
 - 📫 How to reach me **viditsn@gmail.com**
 
