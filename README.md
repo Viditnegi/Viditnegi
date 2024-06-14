@@ -3,9 +3,9 @@
 <h3 align="center">A passionate AI/ML and Computer Vision developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif">
 
-- 🌱 I’m currently learning Generative AI. **Computer Vision**
+- 🌱 I’m currently learning **Generative AI**.
 
-- 💬 Ask me about **Deep learning and Computer Vision**
+- 💬 Ask me about **Deep learning and GenAI**
 
 - 📫 How to reach me **viditsn@gmail.com**
 
