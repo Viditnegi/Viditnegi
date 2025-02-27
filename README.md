@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif">
 
-- 🌱 I'm currently learning **GenAI.**
+- 🌱 I'm currently learning **CUDA and GPU optimization.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Viditnegi?tab=repositories](https://github.com/Viditnegi?tab=repositories)
 
