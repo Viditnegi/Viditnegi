@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidit</h1>
-<h3 align="center">A passionate AI/ML developer.</h3>
+<h3 align="center">A passionate AI Software Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif">
 
